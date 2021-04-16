@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report>
+   <location city="Abrera [Province of Barcelona;Spain]">
+      <interesting>
+         <url description="Forecast">https://www.tiempo.com/abrera.htm</url>
+      </interesting>
+      <var>
+         <name>Minimum Temperature</name>
+         <icon>4</icon>
+         <data>
+            <forecast data_sequence="1" value="7" />
+            <forecast data_sequence="2" value="7" />
+            <forecast data_sequence="3" value="6" />
+            <forecast data_sequence="4" value="8" />
+            <forecast data_sequence="5" value="12" />
+            <forecast data_sequence="6" value="9" />
+            <forecast data_sequence="7" value="7" />
+         </data>
+      </var>
+      <var>
+         <name>Maximum Temperature</name>
+         <icon>5</icon>
+         <data>
+            <forecast data_sequence="1" value="21" />
+            <forecast data_sequence="2" value="21" />
+            <forecast data_sequence="3" value="20" />
+            <forecast data_sequence="4" value="19" />
+            <forecast data_sequence="5" value="18" />
+            <forecast data_sequence="6" value="19" />
+            <forecast data_sequence="7" value="19" />
+         </data>         
+      </var>
+      <var>
+         <name>Wind</name>
+         <icon>9</icon>
+         <data>
+            <forecast data_sequence="1" id="13" idB="45" value="Moderate south wind" valueB="Moderate south wind" />
+            <forecast data_sequence="2" id="13" idB="45" value="Moderate south wind" valueB="Moderate south wind" />
+            <forecast data_sequence="3" id="13" idB="45" value="Moderate south wind" valueB="Moderate south wind" />
+            <forecast data_sequence="4" id="12" idB="44" value="Moderate southeast wind" valueB="Moderate southeast wind" />
+            <forecast data_sequence="5" id="33" idB="35" value="Variable wind" valueB="Moderate east wind" />
+            <forecast data_sequence="6" id="12" idB="44" value="Moderate southeast wind" valueB="Moderate southeast wind" />
+            <forecast data_sequence="7" id="11" idB="51" value="Moderate east wind" valueB="Moderate east wind" />
+         </data>
+      </var>
+      <var>
+         <name>Weather Symbol</name>
+         <icon>10</icon>
+         <data>
+            <forecast data_sequence="1" id="5" id2="5" value="Sunny intervals with light rain shower" value2="Sunny intervals with light rain shower" />
+            <forecast data_sequence="2" id="2" id2="2" value="Sunny intervals" value2="Sunny intervals" />
+            <forecast data_sequence="3" id="2" id2="2" value="Sunny intervals" value2="Sunny intervals" />
+            <forecast data_sequence="4" id="3" id2="3" value="Cloudy" value2="Cloudy" />
+            <forecast data_sequence="5" id="6" id2="6" value="Cloudy with light rain shower" value2="Cloudy with light rain shower" />
+            <forecast data_sequence="6" id="6" id2="6" value="Cloudy with light rain shower" value2="Cloudy with light rain shower" />
+            <forecast data_sequence="7" id="5" id2="5" value="Sunny intervals with light rain shower" value2="Sunny intervals with light rain shower" />
+         </data>
+      </var>
+      <var>
+         <name>Day</name>
+         <icon>15</icon>
+         <data>
+            <forecast data_sequence="1" value="Thursday" />
+            <forecast data_sequence="2" value="Friday" />
+            <forecast data_sequence="3" value="Saturday" />
+            <forecast data_sequence="4" value="Sunday" />
+            <forecast data_sequence="5" value="Monday" />
+            <forecast data_sequence="6" value="Tuesday" />
+            <forecast data_sequence="7" value="Wednesday" />
+         </data>
+      </var>
+      <var>
+         <name>Atmospheric condition</name>
+         <icon>19</icon>
+         <data>
+            <forecast data_sequence="1" value="Overcast throughout the morning and Sunny later in the day" />
+            <forecast data_sequence="2" value="Sunny all day" />
+            <forecast data_sequence="3" value="Sunny all day" />
+            <forecast data_sequence="4" value="Sunny intervals all day" />
+            <forecast data_sequence="5" value="Cloudy with light rain shower throughout the morning and Sunny intervals with light rain shower later in the day" />
+            <forecast data_sequence="6" value="Sunny intervals throughout the morning and Overcast later in the day" />
+            <forecast data_sequence="7" value="Overcast throughout the morning and Sunny intervals with light rain shower later in the day" />
+         </data>
+      </var>
+   </location>
+</report>

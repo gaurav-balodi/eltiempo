@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report>
+   <location city="Abrera [Provincia de Barcelona;España]">
+      <interesting>
+         <url description="Predicción">https://www.tiempo.com/abrera.htm</url>
+      </interesting>
+      <var>
+         <name>Temperatura Mínima</name>
+         <icon>4</icon>
+         <data>
+            <forecast data_sequence="1" value="7" />
+            <forecast data_sequence="2" value="7" />
+            <forecast data_sequence="3" value="6" />
+            <forecast data_sequence="4" value="8" />
+            <forecast data_sequence="5" value="12" />
+            <forecast data_sequence="6" value="9" />
+            <forecast data_sequence="7" value="7" />
+         </data>
+      </var>
+      <var>
+         <name>Temperatura Máxima</name>
+         <icon>5</icon>
+         <data>
+            <forecast data_sequence="1" value="21" />
+            <forecast data_sequence="2" value="21" />
+            <forecast data_sequence="3" value="20" />
+            <forecast data_sequence="4" value="19" />
+            <forecast data_sequence="5" value="18" />
+            <forecast data_sequence="6" value="19" />
+            <forecast data_sequence="7" value="19" />
+         </data>
+      </var>
+      <var>
+         <name>Viento</name>
+         <icon>9</icon>
+         <data>
+            <forecast data_sequence="1" id="13" idB="45" value="Viento moderado de sur" valueB="Viento moderado de sur" />
+            <forecast data_sequence="2" id="13" idB="45" value="Viento moderado de sur" valueB="Viento moderado de sur" />
+            <forecast data_sequence="3" id="13" idB="45" value="Viento moderado de sur" valueB="Viento moderado de sur" />
+            <forecast data_sequence="4" id="12" idB="44" value="Viento moderado de sureste" valueB="Viento moderado de sureste" />
+            <forecast data_sequence="5" id="33" idB="35" value="Viento variable" valueB="Viento moderado de este" />
+            <forecast data_sequence="6" id="12" idB="44" value="Viento moderado de sureste" valueB="Viento moderado de sureste" />
+            <forecast data_sequence="7" id="11" idB="51" value="Viento moderado de este" valueB="Viento moderado de este" />
+         </data>
+      </var>
+      <var>
+         <name>Símbolo del tiempo</name>
+         <icon>10</icon>
+         <data>
+            <forecast data_sequence="1" id="5" id2="5" value="Intervalos nubosos con lluvias débiles" value2="Intervalos nubosos con lluvias débiles" />
+            <forecast data_sequence="2" id="2" id2="2" value="Intervalos nubosos" value2="Intervalos nubosos" />
+            <forecast data_sequence="3" id="2" id2="2" value="Intervalos nubosos" value2="Intervalos nubosos" />
+            <forecast data_sequence="4" id="3" id2="3" value="Cielos nubosos" value2="Cielos nubosos" />
+            <forecast data_sequence="5" id="6" id2="6" value="Cielos nubosos con lluvias débiles" value2="Cielos nubosos con lluvias débiles" />
+            <forecast data_sequence="6" id="6" id2="6" value="Cielos nubosos con lluvias débiles" value2="Cielos nubosos con lluvias débiles" />
+            <forecast data_sequence="7" id="5" id2="5" value="Intervalos nubosos con lluvias débiles" value2="Intervalos nubosos con lluvias débiles" />
+         </data>
+      </var>
+      <var>
+         <name>Día</name>
+         <icon>15</icon>
+         <data>
+            <forecast data_sequence="1" value="Jueves" />
+            <forecast data_sequence="2" value="Viernes" />
+            <forecast data_sequence="3" value="Sábado" />
+            <forecast data_sequence="4" value="Domingo" />
+            <forecast data_sequence="5" value="Lunes" />
+            <forecast data_sequence="6" value="Martes" />
+            <forecast data_sequence="7" value="Miércoles" />
+         </data>
+      </var>
+      <var>
+         <name>Definición de Atmosfera</name>
+         <icon>19</icon>
+         <data>
+            <forecast data_sequence="1" value="Durante la primera mitad del día Cielos cubiertos tendiendo en la segunda mitad del día a Cielos despejados" />
+            <forecast data_sequence="2" value="Durante todo el dia Cielos despejados" />
+            <forecast data_sequence="3" value="Durante todo el dia Cielos despejados" />
+            <forecast data_sequence="4" value="Durante todo el dia Intervalos nubosos" />
+            <forecast data_sequence="5" value="Durante la primera mitad del día Cielos nubosos con lluvias débiles tendiendo en la segunda mitad del día a Intervalos nubosos con lluvias débiles" />
+            <forecast data_sequence="6" value="Durante la primera mitad del día Intervalos nubosos tendiendo en la segunda mitad del día a Cielos cubiertos" />
+            <forecast data_sequence="7" value="Durante la primera mitad del día Cielos cubiertos tendiendo en la segunda mitad del día a Intervalos nubosos con lluvias débiles" />
+         </data>
+      </var>
+   </location>
+</report>

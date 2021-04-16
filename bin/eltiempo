@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+require "eltiempo"
+require "eltiempo/cli"
+
+Eltiempo::CLI.new(ARGV[0], ARGV[1])
