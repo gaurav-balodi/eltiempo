@@ -5,8 +5,8 @@ require "eltiempo/version"
 Gem::Specification.new do |spec|
   spec.name          = "eltiempo"
   spec.version       = Eltiempo::VERSION
-  spec.authors       = ["Gaurav Balodi"]
-  spec.email         = ["gaurav.balodi2@gmail.com"]
+  spec.authors       = ["Gaurav Balodi", "Tarun Mahajan"]
+  spec.email         = ["gaurav.balodi2@gmail.com", "mahajan.tarun1990@gmail.com"]
 
   spec.summary       = %q{This is a simple 3 operation application api for tiempo.com site}
   spec.description   = %q{This is a simple 3 operation application api for tiempo.com site i.e. today & week's average temperature}
